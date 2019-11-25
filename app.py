@@ -1,9 +1,5 @@
 #!/usr/bin/env python
 # coding: utf-8
-
-# In[2]:
-
-
 #Here's a quick example
 
 import dash
@@ -38,7 +34,6 @@ if __name__ == '__main__':
     app.run_server(debug=False)
 
 
-# In[ ]:
 
 
 
